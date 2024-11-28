@@ -1,0 +1,11 @@
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\bin\Debug\SQL_Compiler.exe.config
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\bin\Debug\SQL_Compiler.exe
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\bin\Debug\SQL_Compiler.pdb
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.SQLQueries.resources
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.exe
+C:\Users\bengi\Desktop\C# Projects\SQL_Compiler\SQL_Compiler\obj\Debug\SQL_Compiler.pdb
