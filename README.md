@@ -20,3 +20,13 @@ Usage
 Requirements
 - .NET Framework.
 - An appropriate SQL Server or database driver for database connection.
+
+![1](https://github.com/user-attachments/assets/275ae158-d1ad-4254-92ec-f212b5538404)
+![2](https://github.com/user-attachments/assets/49f6e6f1-21f3-4dd4-a419-ab102f07c999)
+![3](https://github.com/user-attachments/assets/1e4c0d03-7e79-44b1-b3d4-501ac2b14d6f)
+![4](https://github.com/user-attachments/assets/de97fe03-aaaa-476c-95b6-a0080675fd3d)
+![5](https://github.com/user-attachments/assets/6b490110-29c0-42a7-be70-3eee37a9db93)
+
+
+
+
